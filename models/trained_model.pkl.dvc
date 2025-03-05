@@ -1,0 +1,5 @@
+outs:
+- md5: 029ede11f23e0dfa6f6e8e58d65ad626
+  size: 4724011
+  hash: md5
+  path: trained_model.pkl
