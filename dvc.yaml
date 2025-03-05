@@ -55,7 +55,8 @@ stages:
       - data/processed_data/y_test.csv
       - models/trained_model.pkl
     outs:
-      - data/processed_data/predictions.csv
+      - data/processed_data/predictions.csv 
     metrics:
       - metrics/scores.json:
           cache: false
+
